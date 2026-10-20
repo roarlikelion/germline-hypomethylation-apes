@@ -45,15 +45,6 @@ Defines CHED regions from overlapping methylation significance boundaries and me
 **`Son_et_al_CHED_gene_tissue_expression_rank_analysis.py`**  
 Compares tissue-expression rankings between CHED-associated and non-CHED genes using Kolmogorov-Smirnov tests, permutation tests, and Benjamini-Hochberg FDR correction.
 
-## Requirements
-
-Common Python dependencies:
-
-```bash
-pip install numpy pandas scipy matplotlib seaborn statsmodels pingouin biopython
-```
-
-Individual scripts may require only a subset of these packages.
 
 ## Usage
 
