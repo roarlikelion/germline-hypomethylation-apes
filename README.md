@@ -21,7 +21,7 @@ Calculates mean DNA methylation levels and CpG counts within genomic windows.
 **`Son_et_al_methylation_vs_cpgoe_correlationtests.py`**  
 Tests relationships between CpG O/E and DNA methylation using Pearson, Spearman, Kendall, and partial correlation analyses.
 
-### Centromere and CT-transition analyses
+### Centromere and Satellite-nonSatellite boundary analyses
 
 **`Son_et_al_centromere_methylation_plotting.py`**  
 Plots raw and smoothed DNA methylation profiles across centromeric and satellite regions.
@@ -29,13 +29,12 @@ Plots raw and smoothed DNA methylation profiles across centromeric and satellite
 **`Son_et_al_CTtransition_methylation_analysis.py`**  
 Analyzes DNA methylation patterns relative to centromere-transition (Satellite-to-non-Satellite) boundaries.
 
+### CHED region definition
 **`Son_et_al_CTtransition_methylation_threshold_plot.py`**  
 Visualizes chromosome-arm-specific methylation profiles and estimates the distance over which methylation differences remain significant.
 
 **`Son_et_al_CHEDboundaries_pairwise_significance_distance.py`**  
 Calculates chromosome-specific distances from CT boundaries over which DNA methylation remains significantly different between pairs of samples or tissues.
-
-### CHED region definition
 
 **`Son_et_al_CHED_Overlapping_region_definition.py`**  
 Defines CHED regions from overlapping methylation significance boundaries and merges adjacent CHED-positive windows into continuous genomic intervals.
