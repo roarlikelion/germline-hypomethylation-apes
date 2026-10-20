@@ -4,7 +4,7 @@ Analysis scripts associated with the bioRxiv preprint:
 
 **Son DR, Loh EY-H, Jeong H, Ma J, Eichler EE, Yi SV. _Germline hypomethylation shapes dynamic CpG reservoirs in ape genomes._ bioRxiv. DOI: 10.64898/2026.06.15.732472.**
 
-This repository contains scripts used for CpG, DNA methylation, centromere-transition (CT), CHED, and gene-expression analyses presented in the study.
+This repository contains scripts used for CpG, DNA methylation, Satellite-nonSatellite boundaries, CHEDs, and gene-expression analyses presented in the study.
 
 ## Scripts
 
